@@ -1,0 +1,71 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+
+    }
+
+    .parallax {
+      height: 100%;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .img1 {
+      background-image: url('god1.jpg'); 
+
+      
+    }
+
+    .img2 {
+      background-image: url('god2.jpg'); 
+    }
+
+    .img3 {
+      background-image: url('god3.jpg'); 
+    }
+
+    .img4 {
+      background-image: url('god4.jpg');
+    }
+     .img5 {
+      background-image: url('god5.jpg'); 
+    }
+
+    .img6 {
+      background-image: url('god6.jpg'); 
+    }
+
+    .img7 {
+      background-image: url('god7.jpg'); 
+    }
+
+    .img8 {
+      background-image: url('god8.jpg');
+    }
+
+    .img9 {
+      background-image: url('god9.jpg'); 
+    }
+
+    .img10 {
+      background-image: url('god10.jpg');
+    }
+
+    p{
+        height: 200px;
+       background: linear-gradient(to right, #a72727,#4a84ab,#1a0707f0);
+      text-align: center;
+      padding: 80px 20px;
+      font-size: 24px;
+
+    }
+    h1{
+        
+    }
